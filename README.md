@@ -1,6 +1,6 @@
 # 🧑‍💻 Software Engineer Job Primer
 Links and resources to help with software engineer internship and new grad positions. Feel free to open PRs to add more helpful resources!
-- [UPL SWE Guide](https://docs.google.com/presentation/d/1n-LioyPLQFCAQXRVrmDAP8pGFvERrGLhzEETR_mgvU4/edit?usp=sharing)
+- [UPL SWE Guide](https://docs.google.com/presentation/d/1k8fmdXUIqcMeVHhndDzkil2UfQxvmrif-VJ6nXF4Q94/edit?usp=sharing)
 
 ## 📣 Job Boards
 - [PittCSC Internships](https://github.com/pittcsc/Summer2023-Internships) - A list of notable internship job postings for Summer 2023
@@ -16,4 +16,3 @@ Links and resources to help with software engineer internship and new grad posit
 
 ## 📚 General Resources
 - [Levels.fyi](https://www.levels.fyi/) - Salary comparison tool for various companies and positions.
-- [cscd](https://discord.gg/cscareers) - Discord with a wealth of information pertaining to internship and new-grad success
